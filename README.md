@@ -118,12 +118,12 @@ windows-authentication-attack-lab/
 │   ├── MITRE_ATTACK_Mapping.pdf
 │   └── Windows_Incident_Summary.pdf
 │
+media/
+│   └── lab_demo.mp4
+│
 ├── playbook/
 │   ├── windows_attack_playbook.md
 │   └── blue_team_translation.md
-│
-├── media/
-│   └── lab_demo.mp4
 │
 └── README.md
 ```
