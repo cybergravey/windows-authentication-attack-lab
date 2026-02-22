@@ -118,7 +118,7 @@ windows-authentication-attack-lab/
 │   ├── MITRE_ATTACK_Mapping.pdf
 │   └── Windows_Incident_Summary.pdf
 │
-media/
+├── media/
 │   └── lab_demo.mp4
 │
 ├── playbook/
