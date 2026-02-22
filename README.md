@@ -103,6 +103,10 @@ The goal was to:
 - Translate offensive activity into defensive detection strategies
 - Improve structured security documentation skills
 
+See full mapping in `/docs/MITRE_ATTACK_Mapping.pdf`
+
+See incident summary in `/docs/Windows_Incident_Summary.pdf`
+
 ---
 
 ## 📂 Repository Structure
